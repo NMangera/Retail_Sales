@@ -20,9 +20,15 @@ Once the data is cleaned, the notebook moves onto data exploration. In this sect
 To answer these questions different pandas & matplotlib methods are applied. These include:
 
 a) Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+
 b) Adding columns
-c)Parsing cells as strings to make new columns (.str)
+
+c) Parsing cells as strings to make new columns (.str)
+
 d) Using the .apply() method
+
 e) Using groupby to perform aggregate analysis
+
 f) Plotting bar charts and lines graphs to visualize our results
+
 g) Labeling our graphs
