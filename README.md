@@ -18,7 +18,7 @@ The task is to extract actionable insights from the dataset using Pandas and Mat
 
 5. Draw conclusions
 
-**D. Key findings**
+**C. Key findings**
 
 Question 1: What was the best month for sales? How much was earned that month?
 
